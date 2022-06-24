@@ -1,0 +1,19 @@
+{
+  "name": "rat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "node client.js"
+  },
+  "keywords": [],
+  "author": "Noirrs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1"
+  }
+}
