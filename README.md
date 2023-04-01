@@ -1,6 +1,6 @@
 
 # 👾 Node Keylogger
-**Node Keylogger is a keylogger program**
+**Node Keylogger is a keylogger program made with Node & Python**
 
 ![.](https://github.com/Noirrs/node-keylogger/blob/main/assets/hierarchy.png)
 
